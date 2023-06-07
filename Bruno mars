@@ -6,7 +6,7 @@ end)
 if S then
     game.StarterGui:SetCore("SendNotification", {
         Title = "Silent Aim",
-        Text = "Silent Aim was reset, Mode: Normal Aimbot",
+        Text = "Jump to shoot!",
         Duration = 3
     })
 
